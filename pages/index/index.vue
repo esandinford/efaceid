@@ -20,16 +20,16 @@
 <script>
  /* 
   * Esand-FaceIDModule 插件状态码(code字段)
-     * 执行成功
-  FACEID_SUCCESS,
-     * 执行失败
-  FACEID_FAILED,
-     * 未获取到权限
-  FACEID_PERMISSION,
-     * 无效参数
-  FACEID_INVALID_PARAM,
-     * 执行抛异常
-  FACEID_EXCEPTION;
+  * 执行成功
+	FACEID_SUCCESS,
+  * 执行失败
+	FACEID_FAILED,
+  * 未获取到权限
+	FACEID_PERMISSION,
+  * 无效参数
+	FACEID_INVALID_PARAM,
+  * 执行抛异常
+	FACEID_EXCEPTION;
   */
   let faceIDModule = uni.requireNativePlugin("Esand-FaceIDModule")
   // TODO 替换成您自己的APPCODE(切勿泄漏), 如何获取APPCODE,可参考：https://esandinfo.yuque.com/docs/share/13ad611e-b9c3-4cf8-a9a8-fe23a419312e?#
