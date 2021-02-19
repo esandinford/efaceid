@@ -1,7 +1,7 @@
 ## 产品介绍
 支持IOS/Android, 提供多种活体认证方式`(静默活体，炫彩活体，动作活体)`，对人进行认证，用户体验极佳，可用于人脸登录，刷脸支付，刷脸认证等场景，如下：
 
-![](./imgs/efaceid.gif)
+![efaceid](./imgs/efaceid.gif)
 
 ## 插件对外接口
 插件地址 [https://ext.dcloud.net.cn/plugin?id=2486](https://ext.dcloud.net.cn/plugin?id=2486)
@@ -86,4 +86,4 @@ qq: 3626921591
 电话：18033076802
 邮箱：ruide.li@esandinfo.com
 ```
-![](./imgs/wechatqrcode.jpeg)
+![wechatqrcode](./imgs/wechatqrcode.jpeg)
